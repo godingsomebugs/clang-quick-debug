@@ -12,3 +12,5 @@ It compiles the cpp file, spits out a temporary executable file, runs it and del
 Dependencies
 - bash shell
 - clang (g++)
+
+I may update this and add more features.
